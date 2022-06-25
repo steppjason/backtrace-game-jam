@@ -18,7 +18,7 @@ MonoBehaviour:
   description: " \n \n\n<align=\"center\">Programming & Story</align>\n<align=\"center\">Jason
     Stepp</align>\n \n\n\n<align=\"center\">Music</align>\n<align=\"center\">Brandon
     Stepp</align>\n  \n\n\n\n\n\n\n\n<align=\"center\">[Type RESTART to go back to
-    start]</align>\n\n<align=\"center\">[Type QUIT to exit]</align>\n\n\n\n\n\n\n\n\n\n\n\n"
+    start]</align>\n\n\n\n\n\n\n\n\n\n\n\n\n"
   refs: []
   exits:
   - {fileID: 11400000, guid: 2469a6b90888b8842bcc26861276bbe7, type: 2}

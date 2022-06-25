@@ -19,7 +19,7 @@ MonoBehaviour:
   HandleUnhandledExceptions: 1
   IgnoreSslValidation: 0
   DestroyOnLoad: 0
-  Sampling: 1
+  Sampling: 0.10000000149011612
   ReportFilterType: 0
   GameObjectDepth: -1
   NumberOfLogs: 10
