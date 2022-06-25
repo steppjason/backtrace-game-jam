@@ -24,6 +24,8 @@ MonoBehaviour:
     of the secretary you shout, \"Frank! Please do not harm Ms. Weber!\"\n\n2 ) You
     draw your weapon.\n\n3 ) \u201C<i>I understand your frustration.</i>\u201D\r\n</margin>
     \r\n"
+  musicTrack: {fileID: 8300000, guid: f9e56bb956c6fdd429a56d917374c3d1, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: a497a9c9760e7f24e9095a273e11ddbd, type: 2}

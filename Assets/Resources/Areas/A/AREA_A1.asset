@@ -25,6 +25,8 @@ MonoBehaviour:
     wife. She\u2019s on her way here now.</i>\u201D\r\n\r\nConcerned you say, \u201C<i>Now?
     Seeing her might have the opposite effect of what we want. Keep her waiting until
     I call for her.</i>\u201D\r\n\n<align=\"center\">[Type MORE to continue]</align>\n"
+  musicTrack: {fileID: 8300000, guid: f9e56bb956c6fdd429a56d917374c3d1, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: e4fa4f846ab20f7439bf7482f130d71d, type: 2}

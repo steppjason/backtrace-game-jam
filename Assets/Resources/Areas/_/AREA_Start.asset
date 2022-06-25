@@ -21,6 +21,8 @@ MonoBehaviour:
     to progress the story to resolution. Remember to <b>Listen</b>, <b>Empathize</b>,
     <b>Build Trust</b>,  and <b>Recommend</b> a course of action for effective negotiation.\n\n<align=\"center\">[Type
     PLAY to start]</align>\n"
+  musicTrack: {fileID: 8300000, guid: 9b6d3d269a279f94bbe835edf2bc1cf4, type: 3}
+  musicVolume: 0.15
   refs: []
   exits:
   - {fileID: 11400000, guid: 52330da368fb8bb47a422103dcd2f6a6, type: 2}

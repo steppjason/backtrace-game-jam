@@ -22,6 +22,8 @@ MonoBehaviour:
     \"<i>Your wife is here. If you want to talk to her you will need to release the
     hostages.</i>\"\n\n2 ) Calmly you respond, \u201C<i>I understand. Is there anything
     else that we can get you?</i>\u201D\r\n</margin> \r\n\r"
+  musicTrack: {fileID: 8300000, guid: 43b40df172f3c374c805d68e3c81e7cb, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 4396926a3667dd24cbb16c0728282e90, type: 2}

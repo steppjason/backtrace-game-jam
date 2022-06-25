@@ -21,6 +21,8 @@ MonoBehaviour:
     you, Frank.</i>\u201D\r\n\r\nThunder booms in the background as clouds begin
     to form again.\r\n\r\n\r\n<margin=2em>\n1 ) \u201C<i>What about your wife Frank?</i>\u201D\r\n\r\n2
     ) \u201C<i>Do you think your wife would think this is fair?</i>\u201D\r\n</margin>\n\n"
+  musicTrack: {fileID: 8300000, guid: 43b40df172f3c374c805d68e3c81e7cb, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: f3c56e31369e8a042857763a554a8dca, type: 2}

@@ -22,6 +22,8 @@ MonoBehaviour:
     ) \"<i>That she does not want anything to happen to you.</i>\"\n\n2 ) \u201C<i>I
     understand you want to talk to her.</i>\u201D\r\n\n3 ) \u201C<i>I understand
     that she loves you.</i>\u201D\r\n</margin> \r"
+  musicTrack: {fileID: 8300000, guid: 43b40df172f3c374c805d68e3c81e7cb, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 4c403c7fb1bdb524cb94db6c902135f3, type: 2}

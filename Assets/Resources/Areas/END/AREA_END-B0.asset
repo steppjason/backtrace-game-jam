@@ -20,6 +20,8 @@ MonoBehaviour:
     the police line. Flashes from the reporter's cameras add to the commotion.\n\nPolice
     draw their weapons and begin approaching the warehouse.\n\nYou see Frank's shadow
     move past the window inside.\n\n<align=\"center\">[Type MORE to continue]</align>\n\n"
+  musicTrack: {fileID: 8300000, guid: 43b40df172f3c374c805d68e3c81e7cb, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 31a2712d3e6a02c41a5593a3040ba6fa, type: 2}

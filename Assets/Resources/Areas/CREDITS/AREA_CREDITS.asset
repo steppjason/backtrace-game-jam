@@ -15,10 +15,11 @@ MonoBehaviour:
   name: 
   uuid: d98ba1d9-b692-4103-abff-b3ebd0569fd3
   title: THE END
-  description: " \n \n\n<align=\"center\">Programming & Story</align>\n<align=\"center\">Jason
-    Stepp</align>\n \n\n\n<align=\"center\">Music</align>\n<align=\"center\">Brandon
-    Stepp</align>\n  \n\n\n\n\n\n\n\n<align=\"center\">[Type RESTART to go back to
-    start]</align>\n\n\n\n\n\n\n\n\n\n\n\n\n"
+  description: " \n \n<align=\"center\">Programming & Story</align>\n<align=\"center\">Jason
+    Stepp</align>\n \n\n<align=\"center\">Music</align>\n<align=\"center\">Brandon
+    Stepp</align>\n  \n\n\n\n\n<align=\"center\">[Type RESTART to go back to start]</align>\n\n\n\n\n\n\n\n\n"
+  musicTrack: {fileID: 8300000, guid: f9e56bb956c6fdd429a56d917374c3d1, type: 3}
+  musicVolume: 0.15
   refs: []
   exits:
   - {fileID: 11400000, guid: 2469a6b90888b8842bcc26861276bbe7, type: 2}

@@ -6,10 +6,16 @@ using UnityEngine;
 public class MoveAction : Action {
 
 	public override void DoAction(string parsedInput, string rawInput) {
+		Area area = GameController.Instance.AreaController.Area;
 		Exit exit = GetExit(parsedInput.Split(' '));
 		Response(exit, rawInput);
-		if(exit != null && !exit.locked && exit.active)
+		if(exit != null && !exit.locked && exit.active) {
+
+			if(area.Music.name != exit.Area.Music.name)	
+				GameController.Instance.AudioController.SwapTrack(exit.Area.Music, exit.Area.MusicVolume);
+
 			LoadArea(exit.Area);
+		}
 	}
 
 	private void Response(Exit exit, string input) {

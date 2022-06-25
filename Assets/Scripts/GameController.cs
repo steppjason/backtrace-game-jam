@@ -14,6 +14,7 @@ public class GameController : MonoBehaviour {
 	[HideInInspector] public GameDataController GameDataController;
 	[HideInInspector] public InventoryController InventoryController;
 	[HideInInspector] public GameItemController GameItemController;
+	[HideInInspector] public AudioController AudioController;
 	
 	public GameData GameData;
 	public TMP_Text areaTitleText;
@@ -38,6 +39,7 @@ public class GameController : MonoBehaviour {
 		SetLogText("", "");
 		//GameData = GameDataController.LoadData("default.json");
 		//GameData.SetGameData();
+
 	}
 
 	void Update() {
@@ -55,6 +57,7 @@ public class GameController : MonoBehaviour {
 	}
 
 	void GetControllers() {
+		AudioController = GetComponent<AudioController>();
 		GameItemController = GetComponent<GameItemController>();
 		InventoryController = GetComponent<InventoryController>();
 		GameDataController = GetComponent<GameDataController>();

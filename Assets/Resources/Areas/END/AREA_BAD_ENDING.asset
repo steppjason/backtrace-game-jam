@@ -31,6 +31,8 @@ MonoBehaviour:
     <align="center">[Type MORE to continue]</align>
 
 '
+  musicTrack: {fileID: 8300000, guid: 43b40df172f3c374c805d68e3c81e7cb, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 47c31b64f38cd2f469c1e523eb552456, type: 2}

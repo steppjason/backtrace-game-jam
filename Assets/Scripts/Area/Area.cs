@@ -23,6 +23,11 @@ public class Area : ScriptableObject {
 	[SerializeField][TextArea(15, 99)] string description;
 	[Space(10)]
 
+	[SerializeField] AudioClip musicTrack;
+	[Space(10)]
+
+	[SerializeField] float musicVolume;
+	[Space(10)]
 
 	[Tooltip("Reference nouns used by the parser (Not implemented yet).")]
 	[SerializeField] string[] refs;
@@ -47,6 +52,8 @@ public class Area : ScriptableObject {
 	public string Name { get { return name; } }
 	public string Title { get { return title; } }
 	public string Description { get { return description; } }
+	public AudioClip Music { get { return musicTrack; } }
+	public float MusicVolume { get { return musicVolume; } }
 	public string[] References { get { return refs; } }
 	public List<Exit> Exits { get { return exits; } }
 	public List<GameItem> GameItems { get { return gameItems; } }

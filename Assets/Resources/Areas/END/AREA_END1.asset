@@ -22,6 +22,8 @@ MonoBehaviour:
     her.</i>\u201D\r\n\r\nYou walk Frank over to a police cruiser that his wife is
     sitting in. The rain starts to pick up as dawn breaks over the horizon.\r\n\n<align=\"center\">[Type
     MORE to continue]</align>\r\n\n\r\n\r\n\r\n\n\n\n\r\n\r\n"
+  musicTrack: {fileID: 8300000, guid: f9e56bb956c6fdd429a56d917374c3d1, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 47c31b64f38cd2f469c1e523eb552456, type: 2}

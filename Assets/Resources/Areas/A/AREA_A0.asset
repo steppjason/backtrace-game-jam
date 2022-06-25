@@ -26,6 +26,8 @@ MonoBehaviour:
     approach the Sergeant, he continues on his bullhorn.\r\n\r\n\u201C<i>WE NEED
     TO KNOW IF THE HOSTAGES ARE UNHARMED.</i>\u201D\r\n\r\n<align=\"center\">[Type
     MORE to continue]</align>\r\n"
+  musicTrack: {fileID: 8300000, guid: f9e56bb956c6fdd429a56d917374c3d1, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 0d9a94f5867e90246bc0feb459d1c537, type: 2}

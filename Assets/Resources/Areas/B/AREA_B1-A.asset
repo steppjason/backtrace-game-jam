@@ -21,6 +21,8 @@ MonoBehaviour:
     could turn ugly quickly.\n\r\nYou take a brief moment to collect your thoughts.\n\r\n<margin=2em>\r\n1
     ) \u201C<i>Okay. If I can get them to back away will you talk to me?</i>\u201D\r\n\n2
     ) \"<i>Okay. We will back off if you put the gun down.</i>\"\n</margin> \r\n"
+  musicTrack: {fileID: 8300000, guid: 43b40df172f3c374c805d68e3c81e7cb, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 67a7536868513a84c9179a280f2980a4, type: 2}

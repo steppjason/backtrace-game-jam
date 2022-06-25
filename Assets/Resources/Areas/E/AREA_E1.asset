@@ -23,6 +23,8 @@ MonoBehaviour:
     calmly. After a few moments he reappears in the doorway. You notice that he is
     unarmed.\r\n\r\n\u201C<i>Thank you Frank.</i>\u201D\r\n\r\n\u201C<i>I just want
     to talk with my wife.</i>\u201D\r\n\n<align=\"center\">[Type MORE to continue]</align>\n\n"
+  musicTrack: {fileID: 8300000, guid: f9e56bb956c6fdd429a56d917374c3d1, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 6a9a6e7b5cbbd4441bb79ad776ebb84c, type: 2}

@@ -25,6 +25,8 @@ MonoBehaviour:
     the scene and the police line backs away from the warehouse. The cold air is
     starting to get to you.\r\n\r\nTurning back to Frank you say, \u201C<i>How are
     we doing?</i>\u201D\r\n\r\n<align=\"center\">[Type MORE to continue]</align>\r\n\n"
+  musicTrack: {fileID: 8300000, guid: f9e56bb956c6fdd429a56d917374c3d1, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 66c40e299757f0f45ae8503290338a03, type: 2}

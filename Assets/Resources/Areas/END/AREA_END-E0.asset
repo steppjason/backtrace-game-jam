@@ -20,6 +20,8 @@ MonoBehaviour:
     move. It's raining again. Everything happened so quickly.\n\nYou see the news
     reporters rush forward trying to get pictures of what is happening. \n\n<align=\"center\">[Type
     MORE to continue]</align>\n\n"
+  musicTrack: {fileID: 8300000, guid: 43b40df172f3c374c805d68e3c81e7cb, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 31a2712d3e6a02c41a5593a3040ba6fa, type: 2}

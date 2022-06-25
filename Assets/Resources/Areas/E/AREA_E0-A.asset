@@ -20,6 +20,8 @@ MonoBehaviour:
     grip on her.\n\n\"<i>Frank, please.</i>\" You try to calm him down again. \n\n\n<margin=2em>\r\n\n1
     ) \u201C<i>If I can get her here to talk with you, will you relax with Ms. Weber?</i>\u201D\r\n\n2
     ) \"<i>You need to relax with Ms. Weber.</i>\"\n\n</margin> \r\n\n"
+  musicTrack: {fileID: 8300000, guid: 43b40df172f3c374c805d68e3c81e7cb, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 68baa625200f1d943a91474ff68c6283, type: 2}

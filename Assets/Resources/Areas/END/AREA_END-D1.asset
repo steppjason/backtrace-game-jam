@@ -20,6 +20,8 @@ MonoBehaviour:
     line.\r\n\r\nYou hear commotion behind you as you see the S.W.A.T. team getting
     ready for something to happen.\r\n\r\nRain starts to pour down, drowning out
     the noise around.\r\n\n<align=\"center\">[Type MORE to continue]</align>\n"
+  musicTrack: {fileID: 8300000, guid: 43b40df172f3c374c805d68e3c81e7cb, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 31a2712d3e6a02c41a5593a3040ba6fa, type: 2}

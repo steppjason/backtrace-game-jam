@@ -21,6 +21,8 @@ MonoBehaviour:
     ) \"<i>Now, let the hostages go.</i>\"\n\n2 ) \u201C<i>If you come with us to
     talk to your wife, would you let the rest of the hostages go?</i>\u201D\r\n\n</margin>
     \r\n"
+  musicTrack: {fileID: 8300000, guid: f9e56bb956c6fdd429a56d917374c3d1, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: ad1e91df9a669db48ad1568713f1786a, type: 2}

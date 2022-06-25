@@ -23,6 +23,8 @@ MonoBehaviour:
     ) \u201C<i>I understand how difficult this is for you.</i>\u201D\r\n\n2 ) \"<i>I
     understand that you are angry.</i>\"\n\n3) \"<i>We just want what is fair for
     everyone Frank.</i>\"\n</margin> \r\n"
+  musicTrack: {fileID: 8300000, guid: f9e56bb956c6fdd429a56d917374c3d1, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: c1926c003d89eb94ab2b22c70a0e91e6, type: 2}

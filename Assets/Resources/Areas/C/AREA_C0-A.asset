@@ -21,6 +21,8 @@ MonoBehaviour:
     wife.</i>\"\n\nFrank lowers his weapon and walks back inside the warehouse.\n\n<margin=2em>\r\n1
     ) \"<i>Your wife is here. Come with me so we can talk to her.</i>\"\n\n2 ) \u201C<i>Frank,
     will you please talk to me?</i>\u201D\r\n</margin> \r\n\n\n\n\n"
+  musicTrack: {fileID: 8300000, guid: 43b40df172f3c374c805d68e3c81e7cb, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 69dab1a01ac1f8e42b06fed7e88a04fc, type: 2}

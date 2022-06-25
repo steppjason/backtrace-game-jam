@@ -22,6 +22,8 @@ MonoBehaviour:
     ) \"<i>You can speak to your wife on the phone if you relax with Ms. Weber.</i>\"\n\n2
     ) \u201C<i>If I can get her here to talk with you, will you relax with Ms. Weber?</i>\u201D\r\n\n\n</margin>
     \r\n"
+  musicTrack: {fileID: 8300000, guid: f9e56bb956c6fdd429a56d917374c3d1, type: 3}
+  musicVolume: 0.25
   refs: []
   exits:
   - {fileID: 11400000, guid: 4eb937dfc3465a945a210fcc8554d767, type: 2}
