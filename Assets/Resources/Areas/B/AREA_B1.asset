@@ -14,10 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   name: 
   uuid: 57d39808-f4ce-4801-bbd3-28b3dd26e05c
-  title: 
-  description: 
+  title: Negotiation
+  description: "Mr. Parks steps partially out of the door. \"<i>Who are you?</i>\"\r\n\r\n\"<i>I
+    am Special Agent Rick Deckard with the FBI. I am here to help.</i>\"\r\n\r\n\"<i>You
+    think you can help me? Where is my wife? I want to talk to my wife</i>,\" he
+    says visibly agitated.\r\n\r\n<margin=2em>\r\n1 ) Calmly you respond, \u201C<i>I
+    understand. Is there anything else that we can get you?</i>\u201D\r\n</margin>
+    \r\n\r\n"
   refs: []
-  exits: []
+  exits:
+  - {fileID: 11400000, guid: 45165ef4ef5662840b13bd812a28aed4, type: 2}
   gameItems: []
   actionResponses:
   - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_C0
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: 7dfda2d2-a087-4612-85b1-32fb83f00f15
+  title: Negotiation
+  description: "Frank hesitates for a moment. Your approach seems to be working.\r\n\r\n\u201C<i>Get
+    these people away</i>!\u201D Frank makes a wide gesture.\r\n\r\nYou turn your
+    gaze towards Mr. Parks motion. Too many people to count. There are police and
+    reporters outside everywhere waiting for something to happen. With any luck nothing
+    will.\r\n\r\nTaking a brief moment to think you turn back to Frank.\r\n\r\n<margin=2em>\r\n1
+    ) \u201C<i>Okay. If I can get them to back away will you talk to me?</i>\u201D\r\n</margin>
+    \r\n"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: 67a7536868513a84c9179a280f2980a4, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: Mr. Parks hesitates to think. Listening to him is calming him
+      down.
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

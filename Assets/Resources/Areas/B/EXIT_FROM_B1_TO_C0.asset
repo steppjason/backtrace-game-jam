@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0c04b8efbdf3a146a8c22479ab12434, type: 3}
+  m_Name: EXIT_FROM_B1_TO_C0
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: e7fb173a-2815-42dc-8a23-9e4af2185d9d
+  active: 1
+  locked: 0
+  requiredItem: {fileID: 0}
+  area: {fileID: 11400000, guid: e90731a78c764b84c95b61ee368627ec, type: 2}
+  description: 
+  response: "Calmly you respond, \u201C<i>I understand. Is there anything else that
+    we can get you?</i>\u201D\r"
+  rejection: 
+  refs:
+  - 1
+  - ONE
+  actionResponses: []

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_D1
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: a031e3af-04f2-4be2-8983-52ebfb222f0a
+  title: Negotiation
+  description: "Frank walks back out of the doorway holding the secretary. \u201C<i>What
+    do you understand?</i>\u201D\r\n\r\n\u201C<i>Your frustration of not being able
+    to communicate with your wife.</i>\u201D Trying to empathize with him. \u201C<i>You
+    must be very hurt. It seems unfair.</i>\u201D\r\n\r\nHe begins to relax again,
+    lowering the gun to his side. You walk closer. Lowering your voice again.\r\n\r\n<margin=2em>\r\n1
+    ) \u201C<i>I understand how difficult this is for you.</i>\u201D\r\n</margin>
+    \r\n"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: c1926c003d89eb94ab2b22c70a0e91e6, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: Understanding his frustration is relaxing the situation.
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

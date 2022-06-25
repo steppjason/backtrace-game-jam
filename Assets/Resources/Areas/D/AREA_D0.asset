@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_D0
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: 0ad0be1d-7eef-4071-8832-39f71ca2b68d
+  title: Negotiation
+  description: "\u201C<i>Where is my wife?</i>\u201D Frank is now standing fully
+    in the open doorway. You can see that he is carrying a firearm in his right hand.
+    And that he is holding the secretary hostage. \r\n\r\nTrying to remain calm you
+    say, \u201C<i>It is taking some time to reach her.</i>\u201D\r\n\r\nMr. Parks
+    walks back inside upset. You take a few steps closer to the doorway.\r\n\r\n\u201C<i>Frank?</i>\u201D
+    You raise your voice again concerned.\r\n\r\n<margin=2em>\r\n1 ) \u201C<i>I understand
+    your frustration.</i>\u201D\r\n</margin> \r\n"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: a497a9c9760e7f24e9095a273e11ddbd, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: Frank's frustration is starting to wear him thin. Trying to understand
+      how he feels might relax him.
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

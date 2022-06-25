@@ -10,18 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a0c04b8efbdf3a146a8c22479ab12434, type: 3}
-  m_Name: EXIT_TO_B1
+  m_Name: EXIT_FROM_END0_TO_END1
   m_EditorClassIdentifier: 
   name: 
-  uuid: 7cb9abbc-1fc3-49a5-a8dc-45b8b1e7ab1c
+  uuid: aa68854b-f779-4459-84ee-3f07d85e5aaa
   active: 1
   locked: 0
   requiredItem: {fileID: 0}
-  area: {fileID: 11400000, guid: 5795db392cdebbf43aad209f8de89346, type: 2}
+  area: {fileID: 11400000, guid: acf87d659595dfe4cb9fee9f1e142919, type: 2}
   description: 
-  response: 
+  response: "\u201C<i>If you let the rest of the hostages go, would you come with
+    us to talk to your wife?</i>\u201D\r"
   rejection: 
   refs:
-  - 1
-  - ONE
+  - 2
+  - TWO
   actionResponses: []

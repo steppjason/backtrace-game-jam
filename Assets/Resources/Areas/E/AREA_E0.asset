@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_E0
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: 328d90a6-8f42-44bb-a987-ce0bc1acf432
+  title: Negotiation
+  description: "\u201C<i>Your wife is on her way. I spoke to her. On the phone.</i>\u201D\r\n\r\nYou
+    notice it's beginning to rain again.\r\n\r\n\u201C<i>You spoke to her?</i>\u201D\r\n\r\n\u201C<i>She
+    says she misses you very much. And that she doesn\u2019t want anything bad to
+    happen to you.</i>\u201D\r\n\r\nFrank loosens his grip on the secretary.\r\n\r\n<margin=2em>\r\n1
+    ) \u201C<i>If I can get her here to talk with you, will you relax with Ms. Weber?</i>\u201D\r\n</margin>
+    \r\n"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: 4eb937dfc3465a945a210fcc8554d767, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: 'Mr. Parks is beginning to relax with you. '
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

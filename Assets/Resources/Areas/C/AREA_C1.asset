@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_C1
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: cbb4e23f-fe13-44a2-bba1-c6aff98b0f5c
+  title: Negotiation
+  description: "\u201C<i>Okay</i>.\u201D Frank concedes. He is beginning to relax.
+    \u201C<i>I want to talk to my wife</i>.\u201D\r\n\r\n\u201C<i>I understand. This
+    is a difficult situation. Let me see what I can do</i>,\u201D You turn back to
+    the Sergeant, \u201C<i>Tell some of your guys to back off. Keep the snipers.
+    But definitely get rid of these reporters.</i>\u201D\r\n\r\nSergeant Perkins
+    turns back towards his men. \u201C<i>Alright guys, back up! Get these damn reporters
+    out of here!</i>\u201D\r\n\r\nYou watch as the reporters are escorted away from
+    the scene and the police line backs away from the warehouse. The cold air is
+    starting to get to you.\r\n\r\nTurning back to Frank you say, \u201C<i>How are
+    we doing?</i>\u201D\r\n\r\n<align=\"center\">[Type MORE to continue]</align>\r\n\n"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: 66c40e299757f0f45ae8503290338a03, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: 'Frank is visibly upset about not being able to reach his wife. '
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []
