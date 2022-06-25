@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_A0
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: a4a8bde6-c8c3-4e4f-b765-cb802cd9b3e7
+  title: The Briefing
+  description: "June 26th, 2022 3:21am\r\n\r\nDriving up to the scene you can hear
+    the Sergeant on his bullhorn yelling something indistinguishable from inside
+    the car. It is a particularly cold night and the road is still slick with the
+    night\u2019s rain.\r\n\r\nThe crime scene dances blue and red with flashing police
+    lights. You see a SWAT team ready to storm the building. Stepping out of the
+    vehicle the Sergeant\u2019s words become clear.\r\n\r\n\u201C<i>MR. PARKS, IF
+    ANY OF THOSE HOSTAGES ARE HARMED THINGS WON\u2019T BE GOOD FOR YOU</i>.\u201D\r\n\r\nWalking
+    towards a run down warehouse you can\u2019t see the subject from here. As you
+    approach the Sergeant he continues on his bullhorn.\r\n\r\n\u201C<i>WE NEED TO
+    KNOW IF THE HOSTAGES ARE UNHARMED</i>.\u201D\r\n\r\n<align=\"center\">[Type MORE
+    to continue]</align>\r\n"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: 0d9a94f5867e90246bc0feb459d1c537, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: You can't see the subject yet.
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

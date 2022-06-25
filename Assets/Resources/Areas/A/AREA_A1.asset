@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_A1
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: 6674d5f2-3ae9-4046-a1be-e1dfc0c3e544
+  title: The Briefing
+  description: "\"<i>Special Agent Rick Deckard, FBI</i>\", you introduce yourself
+    to the Sergeant on the scene.\r\n\r\nThe police Sergeant lowers his bullhorn,
+    \"<i>Sergeant Perkins. Have you been briefed?</i>\u201D \r\n\r\n\u201C<i>On the
+    ride over. Frank Parks. Caucasian male. 26 years old. No history of violence.
+    Are the hostages still inside?</i>\u201D \r\n\r\n\u201C<i>Five. A security guard,
+    secretary, janitor and two men from the warehouse.</i>\u201D  \r\n\r\n\u201C<i>Has
+    he made any demands?</i>\u201D\r\n\r\n\u201C<i>He says he wants to talk to his
+    wife. She\u2019s on her way here now.</i>\u201D\r\n\r\nConcerned you say, \u201C<i>Now?
+    Seeing her might have the opposite effect of what we want. Keep her waiting until
+    I call for her.</i>\u201D\r\n\n<align=\"center\">[Type MORE to continue]</align>\n"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: e4fa4f846ab20f7439bf7482f130d71d, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: You can't see the subject yet.
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []
