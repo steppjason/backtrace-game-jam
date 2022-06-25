@@ -1,3 +1,5 @@
-# Text Adventure
+# Backtrace Game Jam 4
 
-A text adventure engine built in Unity
+A text-based narrative driven hostage negotiation game. 
+
+The theme of the jam is no violence.
