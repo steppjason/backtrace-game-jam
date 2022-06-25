@@ -22,6 +22,6 @@ MonoBehaviour:
   response: "\u201C<i>Okay. If I can get them to back away will you talk to me.</i>\u201D\r"
   rejection: 
   refs:
-  - 1
-  - ONE
+  - 2
+  - TWO
   actionResponses: []

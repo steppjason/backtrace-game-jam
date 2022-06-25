@@ -22,6 +22,6 @@ MonoBehaviour:
   response: "\u201C<i>I understand your frustration.</i>\u201D\r"
   rejection: 
   refs:
-  - 1
-  - ONE
+  - 3
+  - THREE
   actionResponses: []

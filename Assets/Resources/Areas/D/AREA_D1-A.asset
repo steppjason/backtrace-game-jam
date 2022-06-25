@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_D1-A
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: c5cde8fa-7a32-4938-a93b-02919ea61d5a
+  title: Negotiation
+  description: "Frank becomes visibly angry at your response.\r\n\r\n\u201C<i>You
+    think you understand me? You think you know what\u2019s fair?</i>\u201D\r\n\r\nTrying
+    to calm Frank down, \u201C<i>This situation has been hard on everyone, especially
+    you, Frank.</i>\u201D\r\n\r\nThunder booms in the background as clouds begin
+    to form again.\r\n\r\n\r\n<margin=2em>\n1 ) \u201C<i>What about your wife Frank?</i>\u201D\r\n\r\n2
+    ) \u201C<i>Do you think your wife would think this is fair?</i>\u201D\r\n</margin>\n\n"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: f3c56e31369e8a042857763a554a8dca, type: 2}
+  - {fileID: 11400000, guid: 7f4fdac221b21934d8aafc1a8e84cefb, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: Frank has become aggressive towards the subject matter.
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

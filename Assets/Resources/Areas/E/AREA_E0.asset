@@ -18,16 +18,19 @@ MonoBehaviour:
   description: "\u201C<i>Your wife is on her way. I spoke to her. On the phone.</i>\u201D\r\n\r\nYou
     notice it's beginning to rain again.\r\n\r\n\u201C<i>You spoke to her?</i>\u201D\r\n\r\n\u201C<i>She
     says she misses you very much. And that she doesn\u2019t want anything bad to
-    happen to you.</i>\u201D\r\n\r\nFrank loosens his grip on the secretary.\r\n\r\n<margin=2em>\r\n1
-    ) \u201C<i>If I can get her here to talk with you, will you relax with Ms. Weber?</i>\u201D\r\n</margin>
+    happen to you.</i>\u201D\r\n\r\nFrank loosens his grip on the secretary.\r\n\r\n<margin=2em>\r\n\n1
+    ) \"<i>You can speak to your wife on the phone if you relax with Ms. Weber.</i>\"\n\n2
+    ) \u201C<i>If I can get her here to talk with you, will you relax with Ms. Weber?</i>\u201D\r\n\n\n</margin>
     \r\n"
   refs: []
   exits:
   - {fileID: 11400000, guid: 4eb937dfc3465a945a210fcc8554d767, type: 2}
+  - {fileID: 11400000, guid: a4d2807c91d88204db1e9ba31d1de719, type: 2}
   gameItems: []
   actionResponses:
   - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
-    actionResponse: 'Mr. Parks is beginning to relax with you. '
+    actionResponse: Mr. Parks is beginning to trust you. Make recommendations instead
+      of giving commands.
     actionRejection: 
     itemActionEffects: []
     exitActionEffects: []

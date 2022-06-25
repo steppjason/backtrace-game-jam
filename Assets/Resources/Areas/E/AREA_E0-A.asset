@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_E0-A
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: 434372d0-0dc2-457a-8148-7d7af4a34865
+  title: Negotiation
+  description: "\"<i>No!</i>\" Frank yells, \"<i>She needs to be here!</i>\"\n\nMs.
+    Weber is startled by Frank's reaction and winces in fear. Frank tightens his
+    grip on her.\n\n\"<i>Frank, please.</i>\" You try to calm him down again. \n\n\n<margin=2em>\r\n\n1
+    ) \u201C<i>If I can get her here to talk with you, will you relax with Ms. Weber?</i>\u201D\r\n\n2
+    ) \"<i>You need to relax with Ms. Weber.</i>\"\n\n</margin> \r\n\n"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: 68baa625200f1d943a91474ff68c6283, type: 2}
+  - {fileID: 11400000, guid: a0b081ed6be72e249a3ea644229da530, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: Clearly Frank has his mind set on one thing. Change the terms
+      of the negotiation.
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

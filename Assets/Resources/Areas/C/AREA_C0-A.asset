@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_C0-A
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: acbc0f63-5725-4516-ae7d-c595c2f2ef0c
+  title: Negotiation
+  description: "\"<i>You want me to put down my gun?</i>\" Frank gets angry and waves
+    his gun around.\n\nYou approach with your palm foward gesturing a down motion,
+    \"<i>Please, Mr. Parks, don't do anything rash. Give me some time to reach your
+    wife.</i>\"\n\nFrank lowers his weapon and walks back inside the warehouse.\n\n<margin=2em>\r\n1
+    ) \"<i>Your wife is here. Come with me so we can talk to her.</i>\"\n\n2 ) \u201C<i>Frank,
+    will you please talk to me?</i>\u201D\r\n</margin> \r\n\n\n\n\n"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: 69dab1a01ac1f8e42b06fed7e88a04fc, type: 2}
+  - {fileID: 11400000, guid: 351cebe4061da8a40b3de47f0880c13f, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: Making demands has made Mr. Parks angry. Try taking another approach.
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0c04b8efbdf3a146a8c22479ab12434, type: 3}
+  m_Name: EXIT_FROM_END1_TO_CREDITS
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: 541a326c-30b8-43f8-a149-7b3f37b74010
+  active: 1
+  locked: 0
+  requiredItem: {fileID: 0}
+  area: {fileID: 11400000, guid: 1e5477359e46cc346addab7b1f4f3dd6, type: 2}
+  description: 
+  response: 
+  rejection: 
+  refs:
+  - MORE
+  actionResponses: []

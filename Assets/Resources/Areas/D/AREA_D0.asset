@@ -20,11 +20,15 @@ MonoBehaviour:
     And that he is holding the secretary hostage. \r\n\r\nTrying to remain calm you
     say, \u201C<i>It is taking some time to reach her.</i>\u201D\r\n\r\nMr. Parks
     walks back inside upset. You take a few steps closer to the doorway.\r\n\r\n\u201C<i>Frank?</i>\u201D
-    You raise your voice again concerned.\r\n\r\n<margin=2em>\r\n1 ) \u201C<i>I understand
-    your frustration.</i>\u201D\r\n</margin> \r\n"
+    You raise your voice again concerned.\r\n\r\n<margin=2em>\r\n1 ) For the safety
+    of the secretary you shout, \"Frank! Please do not harm Ms. Weber!\"\n\n2 ) You
+    draw your weapon.\n\n3 ) \u201C<i>I understand your frustration.</i>\u201D\r\n</margin>
+    \r\n"
   refs: []
   exits:
   - {fileID: 11400000, guid: a497a9c9760e7f24e9095a273e11ddbd, type: 2}
+  - {fileID: 11400000, guid: 24eccda9743c3ce4c8ac01e47b11529f, type: 2}
+  - {fileID: 11400000, guid: ea80b490212a951498a2da2232b6182b, type: 2}
   gameItems: []
   actionResponses:
   - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}

@@ -18,12 +18,17 @@ MonoBehaviour:
   description: "Giving Mr. Parks a sympathizing look, you respond, \u201C<i>I know.
     We are doing everything we can. I promise</i>\u201D\r\n\r\nYou check your watch,
     4:03am. \r\n\r\nWithout the police sirens and bullhorn it's almost peaceful.\r\n\r\n<margin=2em>\r\n1
-    ) \"<i>Now, let the hostages go.</i>\"\n\n2 ) \u201C<i>If you let the rest of
-    the hostages go, would you come with us to talk to your wife?</i>\u201D\r\n\n3
-    ) You pull out a pair of handcuffs approaching Frank, \"<i>Frank Parks. You are
-    under arrest.</i>\"\n</margin> \r\n"
+    ) \"<i>Now, let the hostages go.</i>\"\n\n2 ) \u201C<i>If you come with us to
+    talk to your wife, would you let the rest of the hostages go?</i>\u201D\r\n\n</margin>
+    \r\n"
   refs: []
   exits:
   - {fileID: 11400000, guid: ad1e91df9a669db48ad1568713f1786a, type: 2}
+  - {fileID: 11400000, guid: 0db1dcdf2a189fb45aabdd7e74eec0e9, type: 2}
   gameItems: []
-  actionResponses: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: 
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

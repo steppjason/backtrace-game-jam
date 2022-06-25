@@ -20,11 +20,14 @@ MonoBehaviour:
     to communicate with your wife.</i>\u201D Trying to empathize with him. \u201C<i>You
     must be very hurt. It seems unfair.</i>\u201D\r\n\r\nHe begins to relax again,
     lowering the gun to his side. You walk closer. Lowering your voice again.\r\n\r\n<margin=2em>\r\n1
-    ) \u201C<i>I understand how difficult this is for you.</i>\u201D\r\n</margin>
-    \r\n"
+    ) \u201C<i>I understand how difficult this is for you.</i>\u201D\r\n\n2 ) \"<i>I
+    understand that you are angry.</i>\"\n\n3) \"<i>We just want what is fair for
+    everyone Frank.</i>\"\n</margin> \r\n"
   refs: []
   exits:
   - {fileID: 11400000, guid: c1926c003d89eb94ab2b22c70a0e91e6, type: 2}
+  - {fileID: 11400000, guid: 077136726a557ad46aa81a761ee30d63, type: 2}
+  - {fileID: 11400000, guid: 12678811656bb914d99a54caa252aa00, type: 2}
   gameItems: []
   actionResponses:
   - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}

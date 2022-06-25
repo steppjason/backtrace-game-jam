@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_D0-A
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: 4f7c8c1e-09e4-4619-adc6-49a280cccdaf
+  title: Negotiation
+  description: "Frank remains inside the build. You are starting to get tired and
+    the cold air is beginning to numb your face.\n\n\"<i>Mr. Parks, you do not want
+    to harm anyone today. Your wife does not want you to harm anyone today.</i>\"\n\n\"<i>What
+    do you know about my wife?</i>\" Frank yells from inside.\n\n\n<margin=2em>\r\n1
+    ) \"<i>That she does not want anything to happen to you.</i>\"\n\n2 ) \u201C<i>I
+    understand you want to talk to her.</i>\u201D\r\n\n3 ) \u201C<i>I understand
+    that she loves you.</i>\u201D\r\n</margin> \r"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: 4c403c7fb1bdb524cb94db6c902135f3, type: 2}
+  - {fileID: 11400000, guid: ba49b5c5f96edb442b2d4a33c0ccd80a, type: 2}
+  - {fileID: 11400000, guid: 5eb54b6cbf719f14c8729da12ebc48ff, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: This is a very sensitive topic. Lying to Mr. Parks could set
+      him off. Its best to be truthful.
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

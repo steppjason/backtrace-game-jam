@@ -19,11 +19,13 @@ MonoBehaviour:
     am Special Agent Rick Deckard with the FBI. I am here to help.</i>\"\r\n\r\n\"<i>You
     think you can help me? Where is my wife? I want to talk to my wife</i>,\" he
     says visibly agitated.\r\n\r\n<margin=2em>\r\n1 ) Calmly you respond, \u201C<i>I
-    understand. Is there anything else that we can get you?</i>\u201D\r\n</margin>
+    understand. Is there anything else that we can get you?</i>\u201D\r\n\n2 ) Calmly
+    you respond, \"<i>First you will need to let the hostages go.</i>\"\n</margin>
     \r\n\r\n"
   refs: []
   exits:
   - {fileID: 11400000, guid: 45165ef4ef5662840b13bd812a28aed4, type: 2}
+  - {fileID: 11400000, guid: 0d26cf684a5479148827beaa7443b751, type: 2}
   gameItems: []
   actionResponses:
   - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}

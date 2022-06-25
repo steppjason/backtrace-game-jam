@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_B1-A
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: ad17ce81-00f0-460b-a32e-fce861caee90
+  title: Negotiation
+  description: "Frank hesitates for a moment.\n\n\u201C<i>Get these fucking people
+    away!</i>\u201D Frank waves a gun towards the police line behind you.\n\nYou
+    keep your eye on Frank's hand as you slowly reach for your holster. The situation
+    could turn ugly quickly.\n\r\nYou take a brief moment to collect your thoughts.\n\r\n<margin=2em>\r\n1
+    ) \u201C<i>Okay. If I can get them to back away will you talk to me?</i>\u201D\r\n\n2
+    ) \"<i>Okay. We will back off if you put the gun down.</i>\"\n</margin> \r\n"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: 67a7536868513a84c9179a280f2980a4, type: 2}
+  - {fileID: 11400000, guid: 7a92fd0b801fb97439639cedf984428f, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: Mr. Parks is clearly angry. You need to de-escalate the situation
+      quickly.
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

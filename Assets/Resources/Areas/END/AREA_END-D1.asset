@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_END-D1
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: ac810a2c-7933-4f61-acee-ee1dc858ede7
+  title: Conclusion
+  description: "\u201C<i>Nobody knows what\u2019s fair for me!</i>\u201D\r\n\r\nFrustrated
+    and angry Frank slams the door shut causing a loud bang that startles the police
+    line.\r\n\r\nYou hear commotion behind you as you see the S.W.A.T. team getting
+    ready for something to happen.\r\n\r\nRain starts to pour down, drowning out
+    the noise around.\r\n\n<align=\"center\">[Type MORE to continue]</align>\n"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: 31a2712d3e6a02c41a5593a3040ba6fa, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: 
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

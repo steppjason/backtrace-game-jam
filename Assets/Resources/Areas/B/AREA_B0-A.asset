@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_B0-A
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: 8e81b589-0949-4569-a6a9-3a7df9920c57
+  title: Negotiation
+  description: "Mr. Parks steps partially out of the door. \"<i>Who the hell do you
+    think you are?</i>\"\r\n\r\n\"<i>My name is Special Agent Rick Deckard, FBI.
+    I am here to help.</i>\"\r\n\r\n\"<i>You can't help me. Where is my wife? I want
+    to talk to my wife</i>,\" he says visibly angry.\r\n\r\n<margin=2em>\r\n\n1 )
+    \"<i>Your wife is here. If you want to talk to her you will need to release the
+    hostages.</i>\"\n\n2 ) Calmly you respond, \u201C<i>I understand. Is there anything
+    else that we can get you?</i>\u201D\r\n</margin> \r\n\r"
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: 4396926a3667dd24cbb16c0728282e90, type: 2}
+  - {fileID: 11400000, guid: cba3b7feaf1cf1746854f9c03d9b1572, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: Frank has become angry. Another demand might make him violent.
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

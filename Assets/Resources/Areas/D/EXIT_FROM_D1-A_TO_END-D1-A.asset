@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0c04b8efbdf3a146a8c22479ab12434, type: 3}
+  m_Name: EXIT_FROM_D1-A_TO_END-D1-A
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: f699e158-1f2b-4485-8194-69d487ea4d5e
+  active: 1
+  locked: 0
+  requiredItem: {fileID: 0}
+  area: {fileID: 11400000, guid: b8344423a3af0624190a10534700f27a, type: 2}
+  description: 
+  response: "\u201C<i>Do you think your wife would think this is fair?</i>\u201D\r"
+  rejection: 
+  refs:
+  - 2
+  - TWO
+  actionResponses: []

@@ -1040,7 +1040,7 @@ MonoBehaviour:
   logText: {fileID: 2090921576}
   areaDescriptionText: {fileID: 2113435467}
   inputField: {fileID: 1849396434}
-  startingArea: {fileID: 11400000, guid: b9015dbd75e7004439cfe0785c54ddbf, type: 2}
+  startingArea: {fileID: 11400000, guid: 5aa22c9a792a05e488e87cd7b395e462, type: 2}
 --- !u!4 &1713004581
 Transform:
   m_ObjectHideFlags: 0

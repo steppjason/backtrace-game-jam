@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8f2572a9f8121a40b5e4d07105ba440, type: 3}
+  m_Name: AREA_BAD_ENDING
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: f320f85a-aaf9-435c-b776-8ba67e2ce7ee
+  title: Conclusion
+  description: 'Just as you are about to stop all the commotion and begin communicating
+    with Mr. Parks again, you hear a single gunshot ringing inside the warehouse.
+
+
+    You
+    can''t tell if Frank has harmed any of the hostages. All you can hear is screaming
+    from inside.
+
+
+    S.W.A.T. begins to rush past you towards the building with
+    weapons drawn. Everything is chaos.
+
+
+    <align="center">[Type MORE to continue]</align>
+
+'
+  refs: []
+  exits:
+  - {fileID: 11400000, guid: 47c31b64f38cd2f469c1e523eb552456, type: 2}
+  gameItems: []
+  actionResponses:
+  - action: {fileID: 11400000, guid: e18cd954fbbd31640b81d677995d3ad0, type: 2}
+    actionResponse: 
+    actionRejection: 
+    itemActionEffects: []
+    exitActionEffects: []

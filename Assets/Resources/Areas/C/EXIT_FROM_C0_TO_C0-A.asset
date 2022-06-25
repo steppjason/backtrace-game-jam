@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0c04b8efbdf3a146a8c22479ab12434, type: 3}
+  m_Name: EXIT_FROM_C0_TO_C0-A
+  m_EditorClassIdentifier: 
+  name: 
+  uuid: f55c15bd-8bf3-43f4-b6ab-349ae6803608
+  active: 1
+  locked: 0
+  requiredItem: {fileID: 0}
+  area: {fileID: 11400000, guid: cf1f6a556b5f1324bb8f4863e5fb6065, type: 2}
+  description: 
+  response: '"<i>Okay. We will back off if you put the gun down.</i>"'
+  rejection: 
+  refs:
+  - 1
+  - ONE
+  actionResponses: []
